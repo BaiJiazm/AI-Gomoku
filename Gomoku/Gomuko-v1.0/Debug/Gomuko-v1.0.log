@@ -1,0 +1,20 @@
+﻿生成启动时间为 2017/6/2 15:54:26。
+     1>项目“D:\cs2\Artificial Intelligence\Gomoku-VS\Gomoku\Gomuko-v1.0\Gomuko-v1.0.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /arch:SSE /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AI.cpp display.cpp Evaluate.cpp main.cpp
+         main.cpp
+         Evaluate.cpp
+         display.cpp
+         AI.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cs2\Artificial Intelligence\Gomoku-VS\Gomoku\Debug\Gomuko-v1.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\cs2\Artificial Intelligence\Gomoku-VS\Gomoku\Debug\Gomuko-v1.0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cs2\Artificial Intelligence\Gomoku-VS\Gomoku\Debug\Gomuko-v1.0.lib" /MACHINE:X86 Debug\AI.obj
+         Debug\display.obj
+         Debug\Evaluate.obj
+         Debug\main.obj
+         Gomuko-v1.0.vcxproj -> D:\cs2\Artificial Intelligence\Gomoku-VS\Gomoku\Debug\Gomuko-v1.0.exe
+     1>已完成生成项目“D:\cs2\Artificial Intelligence\Gomoku-VS\Gomoku\Gomuko-v1.0\Gomuko-v1.0.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:09.41
