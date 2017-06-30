@@ -1,0 +1,1 @@
+This is my personal project of Gomoku in AI course.
